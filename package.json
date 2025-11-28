@@ -1,0 +1,18 @@
+{
+  "name": "roblox-discord-sync-bot",
+  "version": "1.0.0",
+  "description": "Roblox to Discord Role Sync Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.2",
+    "discord.js": "^14.14.1",
+    "express": "^4.18.2",
+    "mongoose": "^8.0.3"
+  },
+  "engines": {
+    "node": ">=16.9.0"
+  }
+}
