@@ -8,8 +8,8 @@ const API_PORT = process.env.PORT || 3000;
 // Defined Role IDs (The roles that give perks)
 // UPDATE THESE WITH YOUR ACTUAL ROLE IDS BEFORE UPLOADING OR USE ENV VARS
 const ROLE_MAP = {
-    "111111111111111111": "isAdmin",  
-    "222222222222222222": "isVIP", 
+    "111111111111111111": "isAdmin", 
+    "222222222222222222": "isVIP",
     "333333333333333333": "isBooster"
 };
 
