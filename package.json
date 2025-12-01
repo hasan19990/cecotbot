@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "src/bot_and_api.js",
   "scripts": {
-    "start": "node src/bot_and_api.js"
+    "start": "node src/bot_and_api.js" 
   },
   "dependencies": {
     "@google-cloud/firestore": "^7.7.0",
