@@ -1,4 +1,4 @@
-{
+{ 
   "name": "roblox-discord-bridge",
   "version": "1.0.0",
   "main": "src/bot_and_api.js",
